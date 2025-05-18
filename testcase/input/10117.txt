@@ -1,0 +1,2 @@
+INSERT jennie string
+ASSIGN jennie ''
