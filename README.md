@@ -117,7 +117,6 @@ Program must **stop immediately** on error.
   Output:
 
   ```
-  success
   Redeclared: INSERT x string
   ```
 
@@ -144,8 +143,6 @@ Program must **stop immediately** on error.
   Output:
 
   ```
-  success
-  success
   TypeMismatch: ASSIGN x 'abc'
   ```
 
@@ -184,8 +181,6 @@ INSERT x string
 Output:
 
 ```
-success
-success
 UnclosedBlock: 1
 ```
 
