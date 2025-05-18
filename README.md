@@ -88,3 +88,8 @@ Program must **stop immediately** on error.
 - Add symbol to current scope.
 - Allowed types: `number`, `string`
 - Example:
+INSERT x number
+INSERT y string
+➤ Output:
+success
+success
